@@ -1,9 +1,0 @@
-JQUERY YOUTUBE PLAYLIST
-http://www.geckonewmedia.com/blog/2009/8/14/jquery-youtube-playlist-plugin---youtubeplaylist
-
-CALENDAR
-http://arshaw.com/fullcalendar/
-http://www.redredred.com.au/projects/jquery-week-calendar/
-
-TWITTER LOGIN
-http://aext.net/example/twitterlogin/#
