@@ -1,0 +1,2 @@
+http://www.sitepoint.com/blogs/2009/03/31/make-a-mega-drop-down-menu-with-jquery/
+http://labs.makotokw.com/en/jquery/ui_potato_menu

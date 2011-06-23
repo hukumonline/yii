@@ -1,0 +1,36 @@
+
+
+Yang masih harus dikerjakan oleh Programmer:
+
+1. Fitur untuk nambah Image di catalog News/Berita
+2. Fitur untuk nambah Image columnist di catalog Column
+3. Perbaikan Clinic supaya jalan lancar (termasuk fitur user dapat kirim pertanyaan)
+4. Memastikan proses registrasi user lancar (termasuk test dan perbaikan pengiriman email)
+5. Banner Management
+6. Perubahan di admin supaya user bisa milih jenis catalog yang mau di add didalam tiap kategori.
+
+Yang harus dikerjakan sendiri:
+
+1. integrasi zend lucene di Yii
+2. Mungkin pembuatan search engine baru
+
+
+
+Perbaikan yang dilakukan:
+
+1. Supaya walaupun sudah login, trus lupa logout, User sebaiknya tetap bisa login
+
+Rubah file: app/servers/auth/modules/default/controllers/ManagerController.php
+
+//if (count($b) >= 1)
+if(false)
+{
+	$b[0]['password'] = '---';
+	$b[0]['username'] = '---';
+	$b[0]['guid'] = 'XXISLOGINXX'; 
+	echo Zend_Json::encode($b);
+}
+
+------------------
+
+2.

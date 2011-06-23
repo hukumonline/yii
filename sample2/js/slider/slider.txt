@@ -1,0 +1,5 @@
+http://boedesign.com/blog/2009/10/22/jsquares-for-jquery/
+http://boedesign.com/blog/2008/03/05/wiggleslide-for-jquery/
+http://www.catchmyfame.com/2009/08/27/jquery-infinite-carousel-plugin-1-2-released/
+http://webdeveloperplus.com/jquery/featured-content-slider-using-jquery-ui/
+http://css-tricks.com/anythingslider-jquery-plugin/
